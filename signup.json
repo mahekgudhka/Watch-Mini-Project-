@@ -1,0 +1,21 @@
+{
+    "sign_up_page": {
+      "title": "Sign Up",
+      "fields": [
+        {
+          "label": "Username",
+          "type": "text",
+          "placeholder": "Enter your username",
+          "required": true
+        },
+        {
+          "label": "Password",
+          "type": "password",
+          "placeholder": "Enter your password",
+          "required": true
+        }
+      ],
+      "submit_button_label": "Sign Up"
+    }
+  }
+  
